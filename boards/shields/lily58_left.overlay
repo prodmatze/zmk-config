@@ -34,7 +34,7 @@
             <&gpio0 16 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             <&gpio0 17 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             <&gpio0 18 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
-            <&gpio0 29 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>   /* QWERT row fix */
+            <&gpio0 28 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>   /* QWERT row fix */
             <&gpio0 31 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
     };
 };
